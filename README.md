@@ -1,4 +1,4 @@
-***Enunciado***
+# Enunciado
 
 La práctica consiste en la creación de un programa que permita gestionar una colección de ciudades.
 
