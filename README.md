@@ -20,3 +20,10 @@ Gestionaremos las excepciones que se produzcan en el programa.
 
 - Voy a considerar una ciudad como duplicada si tiene el mismo país y mismo nombre que otra.
 - Para hacer uso de la funcionalidad de control de duplicados debo tener implementados en la clase `Ciudad` los métodos **equals** y **hashCode**.
+
+
+## Requisitos de Entrega
+
+•	FECHA DE ENTREGA: 9/05/2025 a las 23:59 
+•	El nombre del fichero .zip a entregar debe tener el siguiente formato:  Nombre1Apellidos1 Nombre2Apellidos2.zip 
+•	Deberá entregarse el código fuente. 
